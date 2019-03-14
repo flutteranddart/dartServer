@@ -3,9 +3,9 @@
 
 Dart除了有Flutter移动框架、开发Web网页外，还可以开发后台、服务端程序。
 
-官方详细介绍地址：https://webdev.dartlang.org/guides/get-started
+官方详细介绍地址：https://www.dartlang.org/tutorials/server/get-started
 
-Dart服务端程序可以编写命令行程序，也可以编写httpServer后端程序。
+Dart服务端程序可以编写命令行程序，也可以编写httpServer后端程序，后面将详细介绍。
 
 【Wiki文档】
 
